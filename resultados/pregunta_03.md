@@ -79,4 +79,3 @@ Se adjuntan capturas de las tres consultas ejecutadas en Apache Hive:
 * Hadoop 2.7.4
 * Docker Compose
 * HiveQL
-siguiente
