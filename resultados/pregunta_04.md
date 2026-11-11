@@ -81,17 +81,3 @@ El modelo RFM permitió identificar diferentes perfiles de clientes considerando
 Los resultados muestran que los clientes VIP representan una oportunidad importante para estrategias de fidelización, mientras que los clientes EN RIESGO requieren campañas de recuperación.
 
 La segmentación facilita la toma de decisiones comerciales y permite desarrollar estrategias diferenciadas para mejorar la retención y rentabilidad de los clientes.
-
-## 8. Evidencias
-
-Se adjuntan capturas de las dos consultas ejecutadas en Apache Hive:
-
-- Consulta 1: resumen general de indicadores RFM.
-- Consulta 2: clasificación y distribución de clientes.
-
-## 9. Herramientas utilizadas
-
-- Apache Hive 2.3.2
-- Hadoop 2.7.4
-- Docker Compose
-- HiveQL

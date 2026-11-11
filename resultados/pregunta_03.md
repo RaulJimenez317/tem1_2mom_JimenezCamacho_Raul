@@ -65,17 +65,3 @@ La utilización de CTE y funciones de ventana permitió realizar comparaciones i
 
 Estos resultados pueden utilizarse para orientar decisiones comerciales, revisar estrategias de descuentos y mejorar la rentabilidad regional.
 
-## 7. Evidencias
-
-Se adjuntan capturas de las tres consultas ejecutadas en Apache Hive:
-
-* Consulta 1: ventas y ganancias por región y año.
-* Consulta 2: variaciones porcentuales utilizando LAG().
-* Consulta 3: clasificación general de regiones.
-
-## 8. Herramientas utilizadas
-
-* Apache Hive 2.3.2
-* Hadoop 2.7.4
-* Docker Compose
-* HiveQL

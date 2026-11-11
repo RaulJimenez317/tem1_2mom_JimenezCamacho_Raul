@@ -64,15 +64,6 @@ El uso de ORC proporciona un formato columnar apropiado para consultas analític
 
 El dataset contiene pedidos desde enero de 2014 hasta diciembre de 2017. Las fechas de envío llegan hasta enero de 2018, debido a que algunos pedidos realizados al final del periodo fueron enviados posteriormente.
 
-## 7. Evidencias
-
-Se deben adjuntar las siguientes capturas:
-
-* Verificación de la estructura de la tabla staging.
-* Consulta de los primeros registros importados.
-* Conteo total de registros mediante COUNT(*).
-* Resultado de DESCRIBE FORMATTED superstore.
-* Listado del archivo CSV almacenado en HDFS.
 
 ## 8. Conclusión
 

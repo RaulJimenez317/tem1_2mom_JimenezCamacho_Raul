@@ -87,18 +87,3 @@ Technology destaca por su capacidad de generar beneficios, mientras que algunos 
 
 La aplicación de RANK(), DENSE_RANK() y funciones de agregación acumulativa permitió establecer comparaciones entre productos y categorías utilizando herramientas analíticas avanzadas de HiveQL.
 
-## 7. Evidencias
-
-Se adjuntan capturas de las cuatro consultas ejecutadas en Apache Hive:
-
-* Consulta 1: cinco productos más rentables por categoría.
-* Consulta 2: productos con mayor volumen de ventas.
-* Consulta 3: productos con menores ganancias.
-* Consulta 4: rankings y ganancias acumuladas por categoría.
-
-## 8. Herramientas utilizadas
-
-* Apache Hive 2.3.2
-* Hadoop 2.7.4
-* Docker Compose
-* HiveQL

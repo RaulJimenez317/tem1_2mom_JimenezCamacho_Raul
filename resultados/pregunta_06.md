@@ -81,14 +81,4 @@ Se recomienda revisar las políticas de descuentos comerciales, especialmente en
 
 La utilización de HiveQL permitió analizar los descuentos mediante agrupaciones, expresiones condicionales y funciones de agregación, obteniendo información útil para la toma de decisiones comerciales.
 
-## 7. Evidencias
 
-Se adjuntan capturas de las tres consultas ejecutadas en Apache Hive:
-
-* Consulta 1: ventas, ganancias y margen por rango de descuento.
-* Consulta 2: cantidad y porcentaje de operaciones con pérdidas.
-* Consulta 3: categorías y subcategorías más afectadas por descuentos altos.
-
-## 8. Herramientas utilizadas
-
-* Apache

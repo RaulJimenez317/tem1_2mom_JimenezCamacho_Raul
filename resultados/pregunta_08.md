@@ -79,18 +79,3 @@ La aplicación del principio de Pareto permitió identificar los productos que c
 Asimismo, la comparación mediante rankings demostró que los productos con mayores ventas no necesariamente son los más rentables.
 
 Estos resultados pueden utilizarse para orientar decisiones de inventario, estrategias comerciales y políticas de precios, priorizando aquellos productos que generan mayores beneficios económicos.
-
-## 7. Evidencias
-
-Se adjuntan capturas de las tres consultas ejecutadas en Apache Hive:
-
-* Consulta 1: concentración del 80% de las ventas por producto.
-* Consulta 2: concentración del 80% de las ganancias por producto.
-* Consulta 3: comparación de los cinco productos destacados según ventas y ganancias.
-
-## 8. Herramientas utilizadas
-
-* Apache Hive 2.3.2
-* Hadoop 2.7.4
-* Docker Compose
-* HiveQL

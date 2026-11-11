@@ -94,8 +94,3 @@ No se detectaron duplicados, valores NULL, fechas invalidas, ventas no positivas
 
 Por lo tanto, el dataset presenta condiciones adecuadas para continuar con los analisis de evolucion comercial, segmentacion RFM, rentabilidad de productos y tendencias temporales.
 
-## 7. Evidencias
-
-Las capturas de ejecucion de las consultas se encuentran en:
-
-`evidencias/pregunta_02/`

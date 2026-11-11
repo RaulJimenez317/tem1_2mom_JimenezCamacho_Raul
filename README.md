@@ -103,6 +103,3 @@ Los resultados permitieron identificar patrones de ventas, rentabilidad regional
 
 El proyecto fortaleció los conocimientos sobre almacenamiento distribuido, procesamiento de datos y análisis mediante tecnologías Big Data.
 
-## Repositorio
-
-Este proyecto forma parte del Examen Práctico Individual del Segundo Momento de la Universidad del Valle.
